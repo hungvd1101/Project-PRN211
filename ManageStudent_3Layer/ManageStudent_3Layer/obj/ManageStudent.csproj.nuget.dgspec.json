@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\Semester5\\C#\\ManageStudent_3Layer\\ManageStudent_3Layer\\ManageStudent.csproj": {}
+    "D:\\Workspace\\Semester5\\Project-PRN211\\ManageStudent_3Layer\\ManageStudent_3Layer\\ManageStudent.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\Semester5\\C#\\ManageStudent_3Layer\\ManageStudent_3Layer\\ManageStudent.csproj": {
+    "D:\\Workspace\\Semester5\\Project-PRN211\\ManageStudent_3Layer\\ManageStudent_3Layer\\ManageStudent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\Semester5\\C#\\ManageStudent_3Layer\\ManageStudent_3Layer\\ManageStudent.csproj",
+        "projectUniqueName": "D:\\Workspace\\Semester5\\Project-PRN211\\ManageStudent_3Layer\\ManageStudent_3Layer\\ManageStudent.csproj",
         "projectName": "ManageStudent",
-        "projectPath": "D:\\Workspace\\Semester5\\C#\\ManageStudent_3Layer\\ManageStudent_3Layer\\ManageStudent.csproj",
+        "projectPath": "D:\\Workspace\\Semester5\\Project-PRN211\\ManageStudent_3Layer\\ManageStudent_3Layer\\ManageStudent.csproj",
         "packagesPath": "C:\\Users\\FPT SHOP\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\Semester5\\C#\\ManageStudent_3Layer\\ManageStudent_3Layer\\obj\\",
+        "outputPath": "D:\\Workspace\\Semester5\\Project-PRN211\\ManageStudent_3Layer\\ManageStudent_3Layer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
